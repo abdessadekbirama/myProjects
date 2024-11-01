@@ -1,0 +1,101 @@
+.searchField
+{
+    outline: none;
+    border-radius: 10px;
+    padding: 5px;
+    display: none;
+}
+.header a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 4rem;
+}
+.sideBar
+{
+    color: white;
+    height: 90vh;
+    position: fixed;
+    width: 50vw;
+    top: 10vh;
+    translate: -50vw;
+}
+.header a:hover
+{
+    background-color: green;
+    transition: 0.3s;
+}
+.chatPage,.GroupPage
+{
+    margin-top: 70px;
+}
+.chatItem:hover
+{
+    background-color:black;
+    transition: 0.3s;
+    color: white;
+}
+.chatItem
+{
+    border-bottom: 1px solid black;
+}
+.youMessage
+{
+    border-radius: 4rem;
+    word-wrap: break-word;
+    max-width: 70%;
+}
+.chatMain
+{
+    background-color: #00000027;
+    min-height: 100vh;
+    padding-bottom: 100px;
+}
+.friendMessage
+{
+    border-radius:4rem;
+    word-wrap: break-word;
+    max-width: 70%;
+}
+.inputMessage
+{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    
+}
+.media
+{
+    background-color: #ffffff;
+}
+.sendBtn:hover
+{
+    box-shadow: 0px 0px 10px 1px black;
+    transition: 0.3s;
+}
+.time
+{
+    background-color: red;
+}
+.record-icon
+{
+    animation: record 1s infinite;
+}
+
+
+@keyframes record {
+    0% {opacity: 0%;}
+    50% {opacity: 100%;}
+    100% {opacity: 0%;}
+}
+
+.record-anim
+{
+    opacity: 0;
+}
+.recording
+{
+    transition: 0.5s;
+    font-size:40px !important;
+}
