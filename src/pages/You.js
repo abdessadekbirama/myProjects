@@ -1,5 +1,5 @@
 function You (props){
-    const date = new Date;
+    const date = new Date();
     return (
         <div className="d-flex w-100 justify-content-between">
         <label></label>

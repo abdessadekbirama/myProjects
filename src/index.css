@@ -25,6 +25,7 @@
 {
     background-color: green;
     transition: 0.3s;
+    color: white;
 }
 .chatPage,.GroupPage
 {
@@ -45,6 +46,7 @@
     border-radius: 4rem;
     word-wrap: break-word;
     max-width: 70%;
+    min-width: 40%;
 }
 .chatMain
 {
@@ -57,6 +59,7 @@
     border-radius:4rem;
     word-wrap: break-word;
     max-width: 70%;
+    min-width: 40%;
 }
 .inputMessage
 {
