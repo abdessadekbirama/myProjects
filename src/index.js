@@ -6,7 +6,7 @@ import GroupPage from "./pages/GroupPage";
 import Chat from "./pages/Chat";
 import GroupChat from "./pages/groupChat";
 import './index.css';
-
+import './bootstrap.css';
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
     <BrowserRouter basename="/abdessadekbirama/myProjects">

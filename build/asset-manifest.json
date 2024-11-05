@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abdessadekbirama/myProjects/static/css/main.92052d1b.css",
-    "main.js": "/abdessadekbirama/myProjects/static/js/main.2b0515b4.js",
-    "static/media/bootstrap-icons.woff?": "/abdessadekbirama/myProjects/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/abdessadekbirama/myProjects/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/abdessadekbirama/myProjects/index.html",
-    "main.92052d1b.css.map": "/abdessadekbirama/myProjects/static/css/main.92052d1b.css.map",
-    "main.2b0515b4.js.map": "/abdessadekbirama/myProjects/static/js/main.2b0515b4.js.map"
+    "main.css": "/myProjects/static/css/main.6336b5a3.css",
+    "main.js": "/myProjects/static/js/main.2b0515b4.js",
+    "static/media/bootstrap-icons.woff?": "/myProjects/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/myProjects/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/myProjects/index.html",
+    "main.6336b5a3.css.map": "/myProjects/static/css/main.6336b5a3.css.map",
+    "main.2b0515b4.js.map": "/myProjects/static/js/main.2b0515b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.92052d1b.css",
+    "static/css/main.6336b5a3.css",
     "static/js/main.2b0515b4.js"
   ]
 }
